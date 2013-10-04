@@ -5,6 +5,6 @@ doc/
 coverage/
 pkg/
 *.gemspec
-Gemfile*
+Gemfile.lock
 .rvmrc
 .DS_Store
